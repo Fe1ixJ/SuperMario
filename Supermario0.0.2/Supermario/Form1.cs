@@ -9,7 +9,7 @@ namespace Supermario
 
         }
         int gravity = 16;
-        int Rörelse = 0;
+        int RÃ¶relse = 0;
         int ticks = 0;
         bool MarioFlying = true;
         private const int NumberOfBlocks = 6;
@@ -30,11 +30,12 @@ namespace Supermario
         private void timer1_Tick(object sender, EventArgs e)
         {
             ticks++;
+            timer1.Stop();
 
             Mario.Top += gravity;
-            Mario.Left += Rörelse;
-            // Det sitter som om testbox2s botten == mario botten så faller den inte VET INTE RIKITGT. Fassnar på testblox2 och faller igenom testblox 
-            // Kan tvinga ut någon om de är i ett block 
+            Mario.Left += RÃ¶relse;
+            // Det sitter som om testbox2s botten == mario botten sÃ¥ faller den inte VET INTE RIKITGT. Fassnar pÃ¥ testblox2 och faller igenom testblox 
+            // Kan tvinga ut nÃ¥gon om de Ã¤r i ett block 
             Console.WriteLine("tick funkar");
             for (int i = 0; i < NumberOfBlocks; i++)
             {
@@ -56,13 +57,13 @@ namespace Supermario
                 if (Mario.Bottom >=images[i].Bottom && Mario.Bottom <= images[i].Bottom +64)
                 {
                     if (Mario.Left+64 == images[i].Left)
-                    { Rörelse = 0; }
+                    { RÃ¶relse = 0; }
                     else if (Mario.Left == images[i].Left+64)
-                    { Rörelse = 0; }
+                    { RÃ¶relse = 0; }
                 }
-                +-
-                string test = i.ToString();
-                MessageBox.Show(test);
+                timer1.Start();
+                //string test = i.ToString();
+                //MessageBox.Show(test);
             }
 
 
@@ -87,7 +88,7 @@ namespace Supermario
 
             }
 
-            // Ovan är en tempoär fix
+            // Ovan Ã¤r en tempoÃ¤r fix
             {//testblock
              // if mario emellan bottom och top
 
@@ -98,31 +99,31 @@ namespace Supermario
                         if (Mario.Left+64 == images[i].Left)
                         {
                             if (e.KeyCode == Keys.Left)
-                                Rörelse = -8;
+                                RÃ¶relse = -8;
                             if (e.KeyCode == Keys.Right)
-                                Rörelse = 0;
+                                RÃ¶relse = 0;
                         }
                         else if (Mario.Left == images[i].Left+64)
                         {
                             if (e.KeyCode == Keys.Left)
-                                Rörelse = 0;
+                                RÃ¶relse = 0;
                             if (e.KeyCode == Keys.Right)
-                                Rörelse = 8;
+                                RÃ¶relse = 8;
                         }
                         else
                         {
                             if (e.KeyCode == Keys.Left)
-                                Rörelse = -8;
+                                RÃ¶relse = -8;
                             if (e.KeyCode == Keys.Right)
-                                Rörelse = 8;
+                                RÃ¶relse = 8;
                         }
                     }
                     else
                     {
                         if (e.KeyCode == Keys.Left)
-                            Rörelse = -8;
+                            RÃ¶relse = -8;
                         if (e.KeyCode == Keys.Right)
-                            Rörelse = 8;
+                            RÃ¶relse = 8;
                     }
 
                 }
@@ -144,9 +145,9 @@ namespace Supermario
             }
 
             if (e.KeyCode == Keys.Left)
-                Rörelse = 0;
+                RÃ¶relse = 0;
             if (e.KeyCode == Keys.Right)
-                Rörelse = 0;
+                RÃ¶relse = 0;
         }
 
     }
