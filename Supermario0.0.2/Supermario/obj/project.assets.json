@@ -8,19 +8,24 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\felix\\.nuget\\packages\\": {}
+    "C:\\Users\\feljoh041\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felix\\source\\repos\\Supermario\\Supermario\\Supermario.csproj",
+      "projectUniqueName": "C:\\Users\\feljoh041\\Desktop\\Supermario0.0.2\\Supermario\\Supermario.csproj",
       "projectName": "Supermario",
-      "projectPath": "C:\\Users\\felix\\source\\repos\\Supermario\\Supermario\\Supermario.csproj",
-      "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felix\\source\\repos\\Supermario\\Supermario\\obj\\",
+      "projectPath": "C:\\Users\\feljoh041\\Desktop\\Supermario0.0.2\\Supermario\\Supermario.csproj",
+      "packagesPath": "C:\\Users\\feljoh041\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\feljoh041\\Desktop\\Supermario0.0.2\\Supermario\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\feljoh041\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +68,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
