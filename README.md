@@ -1,4 +1,4 @@
-A simple Supermario made by Felix Fe1ixJ Johansson as a school project
+A simple Super Mario made by Felix Fe1ixJ Johansson as a school project
 
 To run this game at this state you need Windows, Visualstudio and .net 4.8. 
 Big thanks to all the people who contribute to this project *List of people who helped when done
