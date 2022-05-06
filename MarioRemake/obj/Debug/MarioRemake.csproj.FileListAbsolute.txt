@@ -1,0 +1,54 @@
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\obj\Debug\MarioRemake.csproj.AssemblyReference.cache
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\obj\Debug\MarioRemake.csproj.SuggestedBindingRedirects.cache
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\obj\Debug\Interop.WMPLib.dll
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\obj\Debug\MarioRemake.csproj.ResolveComReference.cache
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\obj\Debug\MarioRemake.Properties.Resources.resources
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\obj\Debug\MarioRemake.csproj.GenerateResource.cache
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\obj\Debug\MarioRemake.csproj.CoreCompileInputs.cache
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\bin\Debug\MarioRemake.exe.config
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\bin\Debug\MarioRemake.exe
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\bin\Debug\MarioRemake.pdb
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\bin\Debug\Interop.WMPLib.dll
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\obj\Debug\MarioRemake.TestWorld.resources
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\obj\Debug\MarioRemake.exe
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\obj\Debug\MarioRemake.pdb
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\obj\Debug\MarioRemake.LoadingScreen.resources
+C:\Users\feljoh041\Desktop\Remake of mario\MarioRemake\MarioRemake\obj\Debug\MarioRemake.WorldSelector.resources
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\bin\Debug\MarioRemake.exe.config
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\bin\Debug\MarioRemake.exe
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\bin\Debug\MarioRemake.pdb
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\bin\Debug\Interop.WMPLib.dll
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.csproj.AssemblyReference.cache
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.csproj.SuggestedBindingRedirects.cache
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\obj\Debug\Interop.WMPLib.dll
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.csproj.ResolveComReference.cache
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.TestWorld.resources
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.LoadingScreen.resources
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.WorldSelector.resources
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.Properties.Resources.resources
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.csproj.GenerateResource.cache
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.csproj.CoreCompileInputs.cache
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.exe
+C:\Users\felix\Skrivbord\SuperMario-Fe1ixJ-patch-0.0.44-1\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.pdb
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\bin\Debug\MarioRemake.exe.config
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\bin\Debug\MarioRemake.exe
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\bin\Debug\MarioRemake.pdb
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\bin\Debug\Interop.WMPLib.dll
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.csproj.AssemblyReference.cache
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.csproj.SuggestedBindingRedirects.cache
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\obj\Debug\Interop.WMPLib.dll
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.csproj.ResolveComReference.cache
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.TestWorld.resources
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.LoadingScreen.resources
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.WorldSelector.resources
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.Properties.Resources.resources
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.csproj.GenerateResource.cache
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.csproj.CoreCompileInputs.cache
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.exe
+C:\Users\feljoh041\Desktop\Current mario\SuperMario-Fe1ixJ-patch-0.0.5\MarioRemaker\MarioRemake\obj\Debug\MarioRemake.pdb
